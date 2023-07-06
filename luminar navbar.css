@@ -1,0 +1,9 @@
+ .nav-items:hover{ 
+   
+ text-decoration: underline blueviolet 2px solid;
+  
+       
+}
+.nav-items  a:hover{
+    color:blueviolet;
+}
